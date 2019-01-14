@@ -1,0 +1,15 @@
+name: "cbstamatis-website"
+output_dir: "."
+navbar:
+  title: "Caitlin A. Brown"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"   
+      href: projects.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css

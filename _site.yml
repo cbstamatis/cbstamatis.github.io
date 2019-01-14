@@ -1,7 +1,7 @@
 name: "cbstamatis-website"
 output_dir: "."
 navbar:
-  title: "Caitlin A. Brown"
+  title: "Caitlin A. Brown Stamatis"
   left:
     - text: "Home"
       href: index.html

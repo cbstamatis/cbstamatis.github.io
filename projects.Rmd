@@ -10,6 +10,12 @@ These days, I'm working on:
 - An ongoing, longitudinal study of individuals at risk for developing mood and anxiety disorders.
 <br/>
 
+
+## [Differential Item Functioning](http://rpubs.com/caitlinbrow/DIF)
+
+- Do the items of the Hoarding Rating Scale exhibit bias when measured in English vs. Spanish?
+
+
 ## [Bifactor](http://rpubs.com/caitlinbrow/439858)
 
 - Bifactor models represent a useful tool for parsing general versus specific variance in a measure.

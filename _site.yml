@@ -10,7 +10,7 @@ navbar:
     - text: "Projects"   
       href: projects.html
     - text: "Publications"   
-      href: publications.html
+      href: Publications.html
 output:
   html_document:
     theme: flatly

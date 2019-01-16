@@ -1,14 +1,16 @@
 name: "cbstamatis-website"
 output_dir: "."
 navbar:
-  title: "Caitlin A. Brown Stamatis"
+  title: |
+    Caitlin A. Brown Stamatis</br>
+    <small>PhD Candidate | Researcher</small>
   left:
-    - text: "Home"
-      href: index.html
     - text: "About"
-      href: about.html
+      href: index.html
     - text: "Projects"   
       href: projects.html
+    - text: "Publications"   
+      href: Publications.html
 output:
   html_document:
     theme: flatly

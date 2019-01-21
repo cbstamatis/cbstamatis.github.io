@@ -4,7 +4,7 @@
 #working on at the time. 
 setwd("/Users/caitlinbrown/Documents/Website/cbstamatis.github.io")
 
-#render your sweet site. 
+#render site. 
 rmarkdown::render_site()
 
 

@@ -1,12 +1,15 @@
----
-title: "About Me"
----
-<br/>
+<style type="text/css">
+h1.title {
+  font-size: 26px;
+}
+</style>
+</br>
 
-###Research and Career Interests###
+###About Me###
+
 <style>
 p.caption {
-  color: blue;
+  color: #708090;
 }
 </style>
 

@@ -1,16 +1,17 @@
 name: "cbstamatis-website"
 output_dir: "."
 navbar:
-  title: |
-    Caitlin A. Brown Stamatis</br>
-    <small>PhD Candidate | Researcher</small>
-  left:
+  title: <div class="brush">Caitlin A. Brown Stamatis, M.S.</div><div class="smallfont">PhD Candidate | Researcher</div>
+  left: 
     - text: "About"
       href: index.html
     - text: "Projects"   
       href: projects.html
     - text: "Publications"   
       href: publications.html
+  right:
+    - icon: fa-linkedin-square
+      href: https://www.linkedin.com/in/caitlin-a-brown/
 output:
   html_document:
     theme: flatly

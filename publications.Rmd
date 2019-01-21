@@ -1,14 +1,17 @@
----
-title: "Publications"
----
-<br/>
+<style type="text/css">
+h1.title {
+  font-size: 26px;
+}
+</style>
+</br>
 
-###Journal Articles###
-**Brown Stamatis**, C.A., Engelmann, J.B., Ziegler, C., Domschke, K., Hasler, G., & Timpano, K.R. (in review). A neuroeconomic investigation of 5-HTT/5-HT1A, social anxiety and risk-taking behavior. 
+##Publications##
+###_*Journal Articles*_###
+**Brown Stamatis, C.A.**, Engelmann, J.B., Ziegler, C., Domschke, K., Hasler, G., & Timpano, K.R. (in review). A neuroeconomic investigation of 5-HTT/5-HT1A, social anxiety and risk-taking behavior. 
 
-Roddy, M.K., **Brown Stamatis**, C.A., Rothman, K., & Doss, B.D. (in review). Mechanisms of Change in a 	Brief Self-Help Online Relationship Intervention. 
+Roddy, M.K., **Brown Stamatis, C.A.**, Rothman, K., & Doss, B.D. (in review). Mechanisms of Change in a 	Brief Self-Help Online Relationship Intervention. 
 
-Weintraub, M.J., **Brown**, C.A., & Timpano, K.R. (2018). [The relationship between schizotypal traits and hoarding symptoms: An examination of symptom specificity and the role of perceived cognitive failures. ](https://www.sciencedirect.com/science/article/pii/S0165032717324357) Journal of Affective Disorders, 237, 10-17.
+Weintraub, M.J., **Brown, C.A.**, & Timpano, K.R. (2018). [The relationship between schizotypal traits and hoarding symptoms: An examination of symptom specificity and the role of perceived cognitive failures. ](https://www.sciencedirect.com/science/article/pii/S0165032717324357) Journal of Affective Disorders, 237, 10-17.
 
 Weisman de Mamani, A., Weintraub, M. J., Maura, J., Martinez de Andino, A., & **Brown**, C. A. (2018). [The interplay among mindfulness, caregiver burden, and mental health in family members of individuals with dementia. ](http://psycnet.apa.org/record/2018-14402-001) Professional Psychology: Research and Practice, 49(2), 116-123. 
 
@@ -25,59 +28,59 @@ Weisman de Mamani, A., Weintraub, M. J., Gurak, K., Maura, J., Martinez de Andin
 **Brown**, C. A., Granero, R., & Ezpeleta, L. (2017). [The Reciprocal Influence of Callous-Unemotional Traits, Oppositional Defiant Disorder and Parenting Practices in Preschoolers. ](https://link.springer.com/article/10.1007/s10578-016-0641-8) Child Psychiatry & Human Development, 48(2), 298-307. 
 <br/><br/>
 
-###Book Chapters###
-**Brown Stamatis**, C.A., Roddy, M.K., & Timpano, K.R. (in press). “Hoarding Disorder.” G. Todd & R.	Branch (Eds.), Evidence-Based Treatment for Anxiety Disorders and Depression. New York, NY: Cambridge University Press. 
+###_*Book Chapters*_###
+**Brown Stamatis, C.A.**, Roddy, M.K., & Timpano, K.R. (in press). “Hoarding Disorder.” G. Todd & R.	Branch (Eds.), Evidence-Based Treatment for Anxiety Disorders and Depression. New York, NY: Cambridge University Press. 
 
-**Brown Stamatis**, C.A., Hudiburgh, S.E., & Timpano, K.R. (in press). “Distress intolerance.” J. S. Abramowitz & 	S. M. Blakey (Eds.), Clinical handbook of fear and anxiety: Psychological processes and	treatment mechanisms. Washington DC: American Psychological Association Press. 
+**Brown Stamatis, C.A.**, Hudiburgh, S.E., & Timpano, K.R. (in press). “Distress intolerance.” J. S. Abramowitz & 	S. M. Blakey (Eds.), Clinical handbook of fear and anxiety: Psychological processes and	treatment mechanisms. Washington DC: American Psychological Association Press. 
 
-Martinez de Andino, A., **Brown**, C.A., & Weisman de Mamani, A. (in press). “El efecto de una terapia familia para esquizofrenia basada en la información cultural respecto a la remisión sintomática en 	los clientes y manejo del estrés en sus familiares.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City. 
+Martinez de Andino, A., **Brown, C.A.**, & Weisman de Mamani, A. (in press). “El efecto de una terapia familia para esquizofrenia basada en la información cultural respecto a la remisión sintomática en 	los clientes y manejo del estrés en sus familiares.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City. 
 
-Martinez de Andino, A., **Brown**, C.A., & Weisman de Mamani, A. (in press). “Similaridades del 	terapeuta y paciente en factores socioculturales como predictores de la eficacia en una terapia para esquizofrenia informada por la cultura.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City.
+Martinez de Andino, A., **Brown, C.A.**, & Weisman de Mamani, A. (in press). “Similaridades del 	terapeuta y paciente en factores socioculturales como predictores de la eficacia en una terapia para esquizofrenia informada por la cultura.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City.
 <br/><br/>
 
-###Conference Presentations###
-**Brown**, C.A., Timpano, K.R., Shaw, A.M., Evans, T.C., & Britton, J.C. (2018, submitted). A Neuroeconomic Perspective on Inter-Temporal Decision-Making Deficits in Hoarding. Poster presentation submitted to the 2019 annual meeting of the Social and Affective Neuroscience Society. 
+###_*Conference Presentations*_###
+**Brown, C.A.**, Timpano, K.R., Shaw, A.M., Evans, T.C., & Britton, J.C. (2018, submitted). A Neuroeconomic Perspective on Inter-Temporal Decision-Making Deficits in Hoarding. Poster presentation submitted to the 2019 annual meeting of the Social and Affective Neuroscience Society. 
 
-**Brown**, C.A., Puccetti, N.A., Heller, A.S., & Timpano, K.R. (2018, November). The impact of repetitive 	negative thinking and executive function on risk and loss aversion in response to stress. In C.A. **Brown** (Chair), Repetitive negative thinking as a transdiagnostic vulnerability factor: A focus on	mechanisms and cognition-emotion interactions. Symposium to be presented at the 52nd annual	meeting of the Association for Behavioral and Cognitive Therapies, Washington, DC.
+**Brown, C.A.**, Puccetti, N.A., Heller, A.S., & Timpano, K.R. (2018, November). The impact of repetitive 	negative thinking and executive function on risk and loss aversion in response to stress. In C.A. **Brown** (Chair), Repetitive negative thinking as a transdiagnostic vulnerability factor: A focus on	mechanisms and cognition-emotion interactions. Symposium to be presented at the 52nd annual	meeting of the Association for Behavioral and Cognitive Therapies, Washington, DC.
 
-**Brown**, C.A., Engelmann, J.B., Hasler, G., & Timpano, K.R. (2018, November). Disorder-specific 	cognitions and neuroeconomic decision-making in hoarding and 	obsessive-compulsive symptoms. Poster presentation at the 52nd annual meeting of the Association for Behavioral and Cognitive Therapies.
+**Brown, C.A.**, Engelmann, J.B., Hasler, G., & Timpano, K.R. (2018, November). Disorder-specific 	cognitions and neuroeconomic decision-making in hoarding and 	obsessive-compulsive symptoms. Poster presentation at the 52nd annual meeting of the Association for Behavioral and Cognitive Therapies.
 
-Roddy, M.K., **Brown**, C.A., Rothman, K., & Doss, B.D. (2018, November). Mechanisms of Change in a Brief Self-help Online Relationship intervention. Poster presentation at the 52nd annual meeting of	the Association for Behavioral and Cognitive Therapies.
+Roddy, M.K., **Brown, C.A.**, Rothman, K., & Doss, B.D. (2018, November). Mechanisms of Change in a Brief Self-help Online Relationship intervention. Poster presentation at the 52nd annual meeting of	the Association for Behavioral and Cognitive Therapies.
 
-**Brown**, C.A., Muroff, J. & Timpano, K.R. (2018, July). Clutter across cultures: An examination of 	measurement invariance across English and Spanish version of the Hoarding Rating Scale. Poster presentation conducted at the 2018 annual meeting of the International Obsessive 	Compulsive Disorder Foundation, Washington, DC.
+**Brown, C.A.**, Muroff, J. & Timpano, K.R. (2018, July). Clutter across cultures: An examination of 	measurement invariance across English and Spanish version of the Hoarding Rating Scale. Poster presentation conducted at the 2018 annual meeting of the International Obsessive 	Compulsive Disorder Foundation, Washington, DC.
 
-Roddy, M.K., **Brown**, C.A., Rothman, K., & Doss, B.D. (2018, April). Mechanisms of Change in a Brief 	Self-help Online Relationship intervention. Poster session presented at the University of Miami 	Research Intersections Spring Graduate Research Symposium, Coral Gables, FL.
+Roddy, M.K., **Brown, C.A.**, Rothman, K., & Doss, B.D. (2018, April). Mechanisms of Change in a Brief 	Self-help Online Relationship intervention. Poster session presented at the University of Miami 	Research Intersections Spring Graduate Research Symposium, Coral Gables, FL.
 
-**Brown**, C.A., Hasler, G., Engelmann, J.B., Ziegler, C., Domschke, K., & Timpano, K.R. (2018, April). A 	neuroeconomic investigation of 5-HTT/5-HT1A, social anxiety and risk-taking behavior. Poster presentation conducted at the annual meeting of the Anxiety and Depression Association of America, Washington, DC.
+**Brown, C.A.**, Hasler, G., Engelmann, J.B., Ziegler, C., Domschke, K., & Timpano, K.R. (2018, April). A 	neuroeconomic investigation of 5-HTT/5-HT1A, social anxiety and risk-taking behavior. Poster presentation conducted at the annual meeting of the Anxiety and Depression Association of America, Washington, DC.
 
-**Brown**, C.A., & Weisman de Mamani, A. (2017, November). The impact of a culturally-informed family	therapy on negative symptoms of schizophrenia: Role of family cohesion. Individual oral 	presentation in Symposium, “From Engagement to Treatment: The Role of Culture and Race in 	the Treatment of Psychosis,” conducted at the 51st annual meeting of the Association of 	Behavioral and Cognitive Therapies, San Diego, CA.
+**Brown, C.A.**, & Weisman de Mamani, A. (2017, November). The impact of a culturally-informed family	therapy on negative symptoms of schizophrenia: Role of family cohesion. Individual oral 	presentation in Symposium, “From Engagement to Treatment: The Role of Culture and Race in 	the Treatment of Psychosis,” conducted at the 51st annual meeting of the Association of 	Behavioral and Cognitive Therapies, San Diego, CA.
 
-**Brown**, C.A., & Weisman de Mamani, A. (2017, November). Modeling mechanisms of change in a culturally-informed family therapy for schizophrenia: A parallel process latent growth model of family cohesion, schizophrenia, and affective symptoms. One of 12 posters selected to be 	presented for the Schizophrenia Special Interest Group, Association for Behavioral and Cognitive 	Therapies, San Diego, CA.
+**Brown, C.A.**, & Weisman de Mamani, A. (2017, November). Modeling mechanisms of change in a culturally-informed family therapy for schizophrenia: A parallel process latent growth model of family cohesion, schizophrenia, and affective symptoms. One of 12 posters selected to be 	presented for the Schizophrenia Special Interest Group, Association for Behavioral and Cognitive 	Therapies, San Diego, CA.
 
-Weisman de Mamani, A., Weintraub, M.J., Maura, J., Martinez de Andino, A., & **Brown**, C.A. (2017). Stigma, Expressed Emotion, and Quality of Life in Caregivers of Individuals with Dementia. Individual oral presentation in Symposium, “Family Interactions and Expressed Emotion Across the Life Span and Across a Spectrum of Psychopathology,” conducted at the 51st annual meeting of the Association for Behavioral and Cognitive Therapies, San Diego, CA.
+Weisman de Mamani, A., Weintraub, M.J., Maura, J., Martinez de Andino, A., & **Brown, C.A.** (2017). Stigma, Expressed Emotion, and Quality of Life in Caregivers of Individuals with Dementia. Individual oral presentation in Symposium, “Family Interactions and Expressed Emotion Across the Life Span and Across a Spectrum of Psychopathology,” conducted at the 51st annual meeting of the Association for Behavioral and Cognitive Therapies, San Diego, CA.
 
-Carbonella, J., Hudiburgh, S.E., **Brown**, C.A., & Timpano, K.R. (2017, November). Network analysis: A closer look at OCD and comorbid features. Poster presented at the 51st annual meeting of the Association for Behavioral and Cognitive Therapies, San Diego, CA.
+Carbonella, J., Hudiburgh, S.E., **Brown, C.A.**, & Timpano, K.R. (2017, November). Network analysis: A closer look at OCD and comorbid features. Poster presented at the 51st annual meeting of the Association for Behavioral and Cognitive Therapies, San Diego, CA.
 
-**Brown**, C.A., & Weisman de Mamani, A. (2017, November). The efficacy of a culturally-informed family therapy for schizophrenia in reducing patient and family member depression, anxiety, and stress. Poster presented at the 51st annual meeting of the Association for Behavioral and Cognitive 	Therapies, San Diego, CA.
+**Brown, C.A.**, & Weisman de Mamani, A. (2017, November). The efficacy of a culturally-informed family therapy for schizophrenia in reducing patient and family member depression, anxiety, and stress. Poster presented at the 51st annual meeting of the Association for Behavioral and Cognitive 	Therapies, San Diego, CA.
 
-**Brown**, C.A., Hudiburgh, S.E., & Timpano, K.R., (2017, November). The impact of the serotonergic	transporter polymorphism and negative life events on hoarding. Poster presented at the annual meeting of the Association for Behavioral and Cognitive Therapies, San Diego, CA.
+**Brown, C.A.**, Hudiburgh, S.E., & Timpano, K.R., (2017, November). The impact of the serotonergic	transporter polymorphism and negative life events on hoarding. Poster presented at the annual meeting of the Association for Behavioral and Cognitive Therapies, San Diego, CA.
 
-**Brown**, C.A., & Weisman de Mamani, A. (2017, March). A parallel process latent growth model of the	effects of a culturally-informed family therapy for schizophrenia on patient psychotic symptoms, patient and caregiver mood, and family cohesion. Symposium conducted at the Distinguished	Fellows Research Colloquium, University of Miami Institute for Advanced Study of the	Americas, University of Miami, Coral Gables, FL.
+**Brown, C.A.**, & Weisman de Mamani, A. (2017, March). A parallel process latent growth model of the	effects of a culturally-informed family therapy for schizophrenia on patient psychotic symptoms, patient and caregiver mood, and family cohesion. Symposium conducted at the Distinguished	Fellows Research Colloquium, University of Miami Institute for Advanced Study of the	Americas, University of Miami, Coral Gables, FL.
 
-**Brown**, C.A., Suro, G., & Weisman de Mamani, A. (2016, September). Diferencias étnicas y raciales en cuanto al sentimiento de vergüenza asociado con cuidar a un paciente con esquizofrenia. Symposium conducted at the meeting of the Congreso Iberoamericano de Psicología Clínica y de	la Salud, San Juan, Puerto Rico.
+**Brown, C.A.**, Suro, G., & Weisman de Mamani, A. (2016, September). Diferencias étnicas y raciales en cuanto al sentimiento de vergüenza asociado con cuidar a un paciente con esquizofrenia. Symposium conducted at the meeting of the Congreso Iberoamericano de Psicología Clínica y de	la Salud, San Juan, Puerto Rico.
 
-**Brown**, C.A., & Weisman de Mamani, A. (2016, September). Relación entre las estrategias de aculturación y la sintomatología afectiva, ansiosa, esquizotípica y de estrés en las minorías étnicas biculturales. Symposium conducted at the meeting of the Congreso Iberoamericano de Psicología Clínica y de la Salud, San Juan, Puerto Rico.
+**Brown, C.A.**, & Weisman de Mamani, A. (2016, September). Relación entre las estrategias de aculturación y la sintomatología afectiva, ansiosa, esquizotípica y de estrés en las minorías étnicas biculturales. Symposium conducted at the meeting of the Congreso Iberoamericano de Psicología Clínica y de la Salud, San Juan, Puerto Rico.
 
-Weisman de Mamani, A., Weintraub, M.J., Maura, J., Martinez de Andino, A., **Brown**, C.A., & Gurak, K. (2016, September). Testing Berry’s acculturation model as a tool to understand predictors of	psychiatric symptom severity and quality of life in ethnic minority patients with schizophrenia. Symposium conducted at the meeting of the Congreso Iberoamericano de Psicología Clínica y de la Salud, San Juan, Puerto Rico.
+Weisman de Mamani, A., Weintraub, M.J., Maura, J., Martinez de Andino, A., **Brown, C.A.**, & Gurak, K. (2016, September). Testing Berry’s acculturation model as a tool to understand predictors of	psychiatric symptom severity and quality of life in ethnic minority patients with schizophrenia. Symposium conducted at the meeting of the Congreso Iberoamericano de Psicología Clínica y de la Salud, San Juan, Puerto Rico.
 
-**Brown**, C.A., & Weisman de Mamani, A. (2016, October). The differential severity of depression and anxiety 	symptoms when Hispanic caregivers of patients with schizophrenia are interviewed in	English versus Spanish. Poster presented at the meeting of the Association for Behavioral and Cognitive Therapies, New York, NY.
+**Brown, C.A.**, & Weisman de Mamani, A. (2016, October). The differential severity of depression and anxiety 	symptoms when Hispanic caregivers of patients with schizophrenia are interviewed in	English versus Spanish. Poster presented at the meeting of the Association for Behavioral and Cognitive Therapies, New York, NY.
 
-Weisman de Mamani, A., Weintraub, M., Maura, J., Gurak, K., Martinez de Andino, A. & **Brown**, C.A. (2016, October). Acculturation styles and their associations with psychiatric symptoms and quality of life in patients with schizophrenia. Symposium conducted at the meeting of the Association for Behavioral and Cognitive Therapies, New York, NY.
+Weisman de Mamani, A., Weintraub, M., Maura, J., Gurak, K., Martinez de Andino, A. & **Brown, C.A.** (2016, October). Acculturation styles and their associations with psychiatric symptoms and quality of life in patients with schizophrenia. Symposium conducted at the meeting of the Association for Behavioral and Cognitive Therapies, New York, NY.
 
-**Brown**, C.A., & Weisman de Mamani, A. (2016, August). Psychosis and anxiety severity in the native vs.	acquired language. Poster presented to the meeting of the American Psychological Association, Denver, Colorado.
+**Brown, C.A.**, & Weisman de Mamani, A. (2016, August). Psychosis and anxiety severity in the native vs.	acquired language. Poster presented to the meeting of the American Psychological Association, Denver, Colorado.
 
-**Brown**, C.A., & Weisman de Mamani, A. (2016, July). The differential presentation of schizotypal symptoms in individuals interviewed in their mother tongue vs. acquired language. Poster presented to the meeting of the World Congress of Behavioral and Cognitive Therapies, Melbourne, Australia. 
+**Brown, C.A.**, & Weisman de Mamani, A. (2016, July). The differential presentation of schizotypal symptoms in individuals interviewed in their mother tongue vs. acquired language. Poster presented to the meeting of the World Congress of Behavioral and Cognitive Therapies, Melbourne, Australia. 
 
-**Brown**, C.A., & Weisman de Mamani, A. (2016, July). The differential severity of psychotic symptoms in bilinguals with schizophrenia interviewed in their mother tongue vs. acquired language. Symposium conducted at the meeting of the World Congress of Behavioral and Cognitive 	Therapies, Melbourne, Australia. 
+**Brown, C.A.**, & Weisman de Mamani, A. (2016, July). The differential severity of psychotic symptoms in bilinguals with schizophrenia interviewed in their mother tongue vs. acquired language. Symposium conducted at the meeting of the World Congress of Behavioral and Cognitive 	Therapies, Melbourne, Australia. 
 
-**Brown**, C.A., & Weisman de Mamani, A. (2015, October). The differential severity of psychotic	symptoms in bilinguals with schizophrenia interviewed in their mother tongue vs. acquired language. Symposium conducted at the Research Intersections meeting (“Representing the	World: Mapping, Models and Mimeses”) at the University of Miami Miller School of Medicine, Miami, FL.
+**Brown, C.A.**, & Weisman de Mamani, A. (2015, October). The differential severity of psychotic	symptoms in bilinguals with schizophrenia interviewed in their mother tongue vs. acquired language. Symposium conducted at the Research Intersections meeting (“Representing the	World: Mapping, Models and Mimeses”) at the University of Miami Miller School of Medicine, Miami, FL.

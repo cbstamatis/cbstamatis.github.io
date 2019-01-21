@@ -1,14 +1,19 @@
----
-title: "About Me"
----
-<br/><style>
+<style type="text/css">
+h1.title {
+  font-size: 26px;
+}
+</style>
+</br>
+
+###About Me###
+
+<style>
 p.caption {
-  color: blue;
+  color: #708090;
 }
 </style>
 
 <div class = "row row-no-gutters">
-
 <div class = "col-md-3">
 ![<i>Caitlin A. Brown Stamatis, M.S.</i>](cbphoto.jpeg)
 </div>

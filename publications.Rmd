@@ -7,9 +7,9 @@ h1.title {
 
 ##Publications##
 ###_*Journal Articles*_###
-**Brown Stamatis, C.A.**, Engelmann, J.B., Ziegler, C., Domschke, K., Hasler, G., & Timpano, K.R. (in review). A neuroeconomic investigation of 5-HTT/5-HT1A, social anxiety and risk-taking behavior. 
+**Stamatis, C.A.**, Engelmann, J.B., Ziegler, C., Domschke, K., Hasler, G., & Timpano, K.R. (in review). A neuroeconomic investigation of 5-HTT/5-HT1A, social anxiety and risk-taking behavior. 
 
-Roddy, M.K., **Brown Stamatis, C.A.**, Rothman, K., & Doss, B.D. (in review). Mechanisms of Change in a 	Brief Self-Help Online Relationship Intervention. 
+Roddy, M.K., **Stamatis, C.A.**, Rothman, K., & Doss, B.D. (in review). Mechanisms of Change in a 	Brief Self-Help Online Relationship Intervention. 
 
 Weintraub, M.J., **Brown, C.A.**, & Timpano, K.R. (2018). [The relationship between schizotypal traits and hoarding symptoms: An examination of symptom specificity and the role of perceived cognitive failures. ](https://www.sciencedirect.com/science/article/pii/S0165032717324357) Journal of Affective Disorders, 237, 10-17.
 
@@ -29,9 +29,9 @@ Weisman de Mamani, A., Weintraub, M. J., Gurak, K., Maura, J., Martinez de Andin
 <br/><br/>
 
 ###_*Book Chapters*_###
-**Brown Stamatis, C.A.**, Roddy, M.K., & Timpano, K.R. (in press). “Hoarding Disorder.” G. Todd & R.	Branch (Eds.), Evidence-Based Treatment for Anxiety Disorders and Depression. New York, NY: Cambridge University Press. 
+**Stamatis, C.A.**, Roddy, M.K., & Timpano, K.R. (in press). “Hoarding Disorder.” G. Todd & R.	Branch (Eds.), Evidence-Based Treatment for Anxiety Disorders and Depression. New York, NY: Cambridge University Press. 
 
-**Brown Stamatis, C.A.**, Hudiburgh, S.E., & Timpano, K.R. (in press). “Distress intolerance.” J. S. Abramowitz & 	S. M. Blakey (Eds.), Clinical handbook of fear and anxiety: Psychological processes and	treatment mechanisms. Washington DC: American Psychological Association Press. 
+**Stamatis, C.A.**, Hudiburgh, S.E., & Timpano, K.R. (in press). “Distress intolerance.” J. S. Abramowitz & 	S. M. Blakey (Eds.), Clinical handbook of fear and anxiety: Psychological processes and	treatment mechanisms. Washington DC: American Psychological Association Press. 
 
 Martinez de Andino, A., **Brown, C.A.**, & Weisman de Mamani, A. (in press). “El efecto de una terapia familia para esquizofrenia basada en la información cultural respecto a la remisión sintomática en 	los clientes y manejo del estrés en sus familiares.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City. 
 

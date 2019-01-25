@@ -17,11 +17,10 @@ h1.title {
 
 - Do the items of the Hoarding Rating Scale exhibit bias when measured in English vs. Spanish?
 
+#### [Genetics](http://rpubs.com/caitlinbrow/genes)
+
+- Genetic risk factors interact with early life stress to predict hoarding symptoms.
 
 #### [Bifactor](http://rpubs.com/caitlinbrow/439858)
 
-- Bifactor models represent a useful tool for parsing general versus specific variance in a measure.
-
-#### [Genetics](http://rpubs.com/caitlinbrow/373965)
-
-- Genetic risk factors interact with early life stress to predict hoarding symptoms.
+- Bifactor models represent a useful tool for parsing general versus specific variance in a construct.

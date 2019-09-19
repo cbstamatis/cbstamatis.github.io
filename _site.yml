@@ -13,7 +13,7 @@ navbar:
       href: publications.html
   right:
     - icon: fa-linkedin-square
-      href: https://www.linkedin.com/in/caitlin-a-brown/
+      href: https://www.linkedin.com/in/cstamatis/
 output:
   html_document:
     theme: cosmo

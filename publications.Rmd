@@ -7,15 +7,21 @@ h1.title {
 
 ##Publications##
 ###_*Journal Articles*_###
+Timpano, K.R., Shaw, A.M., Evans, T.C., **Stamatis, C.A.**, & Britton, J.C. (in preparation). Intertemporal decision-making deficits in hoarding: Brain-behavior relationships.
+
+Hudiburgh, S.E., **Stamatis, C.A.** & Timpano, K.R. (in preparation). Resting state functional connectivity in OCD: A review of findings from ICA and graph theoretical approaches.
+
+Bainter, S.A., Goodman, Z.T., **Stamatis, C.A.**, Llabre, M.M., & Timpano, K.R. (in preparation). Applying stochastic search variable selection to modeling who evacuated ahead of Hurricane Irma.
+
 **Stamatis, C.A.** & Timpano, K.R. (in preparation). Clutter across cultures: An item-response theory approach to testing differential item functioning across English and Spanish versions of the Hoarding Rating Scale.
 
-**Stamatis, C.A.**, Puccetti, N.A., Heller, A.S., & Timpano, K.R. (in preparation). Repetitive negative thinking following a 	natural disaster linked with altered affective, behavioral and physiological reactions to stress in laboratory.
+**Stamatis, C.A.**, Puccetti, N.A., Heller, A.S., & Timpano, K.R. (in review). Repetitive negative thinking following a 	natural disaster linked with altered affective, behavioral and physiological reactions to stress in laboratory.
 
-Arditte Hall, K.A., **Stamatis, C.A.**, Shaw, A.M., & Timpano, K.R. (in review). Are Hoarding Symptoms Associated with Attentional Biases? A Preliminary Investigation.
+**Stamatis, C.A.**, Engelmann, J.B., Ziegler, C., Domschke, K., Hasler, G., & Timpano, K.R. (revise and resubmit). A neuroeconomic investigation of 5-HTT/5-HT1A, social anxiety and risk-taking behavior. 
 
-**Stamatis, C.A.**, Engelmann, J.B., Ziegler, C., Domschke, K., Hasler, G., & Timpano, K.R. (in review). A neuroeconomic investigation of 5-HTT/5-HT1A, social anxiety and risk-taking behavior. 
+Arditte Hall, K.A., **Stamatis, C.A.**, Shaw, A.M., & Timpano, K.R. (2019). Are Hoarding Symptoms Associated with Attentional Biases? A Preliminary Investigation. Journal of Obsessive-Compulsive and Related Disorders.
 
-Roddy, M.K., **Stamatis, C.A.**, Rothman, K., & Doss, B.D. (in review). Mechanisms of Change in a Brief Self-Help Online Relationship Intervention. 
+Roddy, M.K., **Stamatis, C.A.**, Rothman, K., & Doss, B.D. (2019). Mechanisms of Change in a Brief Self-Help Online Relationship Intervention. Journal of Family Psychology.
 
 Weintraub, M.J., **Brown, C.A.**, & Timpano, K.R. (2018). [The relationship between schizotypal traits and hoarding symptoms: An examination of symptom specificity and the role of perceived cognitive failures. ](https://www.sciencedirect.com/science/article/pii/S0165032717324357) Journal of Affective Disorders, 237, 10-17.
 
@@ -35,13 +41,13 @@ Weisman de Mamani, A., Weintraub, M. J., Gurak, K., Maura, J., Martinez de Andin
 <br/><br/>
 
 ###_*Book Chapters*_###
-**Stamatis, C.A.**, Roddy, M.K., & Timpano, K.R. (in press). “Hoarding Disorder.” G. Todd & R.	Branch (Eds.), Evidence-Based Treatment for Anxiety Disorders and Depression. New York, NY: Cambridge University Press. 
+**Stamatis, C.A.**, Roddy, M.K., & Timpano, K.R. (2019). “Hoarding Disorder.” G. Todd & R.	Branch (Eds.), Evidence-Based Treatment for Anxiety Disorders and Depression. New York, NY: Cambridge University Press. 
 
-**Stamatis, C.A.**, Hudiburgh, S.E., & Timpano, K.R. (in press). “Distress intolerance.” J. S. Abramowitz & 	S. M. Blakey (Eds.), Clinical handbook of fear and anxiety: Psychological processes and	treatment mechanisms. Washington DC: American Psychological Association Press. 
+**Stamatis, C.A.**, Hudiburgh, S.E., & Timpano, K.R. (2019). “Distress intolerance.” J. S. Abramowitz & 	S. M. Blakey (Eds.), Clinical handbook of fear and anxiety: Psychological processes and	treatment mechanisms. Washington DC: American Psychological Association Press. 
 
-Martinez de Andino, A., **Brown, C.A.**, & Weisman de Mamani, A. (in press). “El efecto de una terapia familia para esquizofrenia basada en la información cultural respecto a la remisión sintomática en 	los clientes y manejo del estrés en sus familiares.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City. 
+Martinez de Andino, A., **Brown, C.A.**, & Weisman de Mamani, A. (2019. “El efecto de una terapia familia para esquizofrenia basada en la información cultural respecto a la remisión sintomática en 	los clientes y manejo del estrés en sus familiares.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City. 
 
-Martinez de Andino, A., **Brown, C.A.**, & Weisman de Mamani, A. (in press). “Similaridades del 	terapeuta y paciente en factores socioculturales como predictores de la eficacia en una terapia para esquizofrenia informada por la cultura.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City.
+Martinez de Andino, A., **Brown, C.A.**, & Weisman de Mamani, A. (2019). “Similaridades del 	terapeuta y paciente en factores socioculturales como predictores de la eficacia en una terapia para esquizofrenia informada por la cultura.” M. Valencia (Ed.), Symptomatic remission and recovery in depression, bipolar disorder and schizophrenia. Mexico City.
 <br/><br/>
 
 ###_*Conference Presentations*_###

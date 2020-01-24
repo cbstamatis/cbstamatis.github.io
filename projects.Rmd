@@ -10,12 +10,16 @@ h1.title {
 #### [HealthyU](http://rpubs.com/caitlinbrow/healthyU)  
 
 - An ongoing, longitudinal study of individuals at risk for developing mood and anxiety disorders.
+- See [here](http://rpubs.com/caitlinbrow/RNT) for the analyses included in a publication under review.
 <br/>
-
 
 #### [Differential Item Functioning](http://rpubs.com/caitlinbrow/DIF)
 
 - Do the items of the Hoarding Rating Scale exhibit bias when measured in English vs. Spanish?
+
+#### [Linking EMA and the P-Factor Model](http://rpubs.com/caitlinbrow/structuralregsEMA)
+
+- How can momentary affective dynamics, measured using in-the-moment smartphone assessments, inform our understanding of the latent structure of psychopathology?
 
 #### [Genetics](http://rpubs.com/caitlinbrow/genes)
 

@@ -16,7 +16,7 @@ p.caption {
 <div class = "row row-no-gutters">
 
 <div class = "col-md-3">
-![<i>Caitlin A. Brown Stamatis, M.S.</i>](cbphoto.jpeg)
+![<i>Caitlin A. Brown Stamatis, M.S.</i>](caitlinstamatis.jpg)
 </div>
 <div class = "col-md-9" style= "padding:0;">
 I am a clinical research psychologist with a background in biostatistics, data science, and psychometrics. At the crux of my research lies the question of what factors exacerbate and maintain psychiatric symptoms. In particular, I aim to understand how cognitive factors (e.g., decision-making; attention; language) interact with emotional vulnerabilities to engender risk for anxiety, OC-spectrum, and related disorders.

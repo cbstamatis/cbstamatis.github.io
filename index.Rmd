@@ -24,7 +24,6 @@ I am a clinical research psychologist with a background in biostatistics, data s
 To answer these questions, I focus on three primary research goals. First, I rely on multimethod experiments that draw not only from experimental psychology, but also from fields as diverse as behavioral economics, neuroscience, physiology, and genetics. Second, I consider issues of psychometrics and measurement, along with broader cultural considerations that may impact whether we are measuring the constructs we care about in a valid way. Third, I aim to capitalize on methods from data science and machine learning to improve our models of prediction, which has allowed me to gain competencies in R, SPSS, Mplus, MATLAB, Python, and additional programs, along with advanced statistical modeling techniques.
 
 </div>
-</div>
 As I complete my PhD in Clinical Psychology, specializing in Quantitative Psychology, I am seeking a career conducting quantitative research on cognitive and emotional risk and maintenance factors for anxiety, OC-spectrum, and related disorders.
 <br/><br/>
 
